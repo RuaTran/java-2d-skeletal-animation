@@ -1,0 +1,23 @@
+this.xTranslation = xTranslation; //1
+this.yTranslation = yTranslation; //2
+//q 3
+//w 4
+if (flipFlags == 0) this.flipFlag = false; else this.flipFlag = true; //5
+this.xScale = xScale; //6
+this.yScale = yScale; //7
+this.rotation = rotation10000to360(rotation); //8
+//9
+//10
+this.imageIndex = imageIndex;//11
+this.imageXPosHalf   = imageXPosHalf;//12
+this.imageYPosHalf   = imageYPosHalf;//13
+this.imageWidthHalf  = imageWidthHalf;//14
+this.imageHeightHalf = imageHeightHalf;//15
+this.layer = layer;//16
+this.xOrigin = xOrigin;//17
+this.yOrigin = yOrigin;//18
+
+xT, yT, xS*, yS*, xO, yO, a*, f, iXP*, iYP*, iW*, iH*, l , iI
+1   2   3    4    5   6   7   8  9     10    11   12   13  14
+1   2   6    7    17  18  8   5  12    13    14   15   16  11 
+        /1000/1000        rot    *2    *2    *2   *2
