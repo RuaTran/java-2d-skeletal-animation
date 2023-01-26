@@ -1,6 +1,6 @@
 
 # Java 2D Skeletal Animation library
-Created as a personal project to explore the challenges of implementing 2D skeletal animation similar to [Spine2D](http://esotericsoftware.com/spine-demos) The art assets utilized are from the game Ragnarok Battle Offline, which is owned by フランスパン, otherwise all code is owned by me. It is very barebones, and I would've like to include a clean editor, but Java development has very robust open-source tools for this already. 
+Created as a personal project to explore the challenges of implementing 2D skeletal animation similar to [Spine2D](http://esotericsoftware.com/spine-demos). The art assets utilized are from the game Ragnarok Battle Offline, which is owned by フランスパン, otherwise all code is owned by me. It is very barebones, and I would've like to include a clean editor, but Java development has very robust open-source tools for this already. 
 
 The source-code includes self-written game engine that demonstrates the usage of the library, which is to take individual small images and mesh them together to make animations. For example: the following spritesheet (and another including the face components)...
 
@@ -12,7 +12,7 @@ The benefit of this is that art assets have high reusability with extraordinaril
 ## Usage
 Click on **Releases** on the right side of the site to download v1.0.0, which contains a zip file with the executable. Also, the Java **source code** is available for you to inspect and modify freely. In order to build it, download the source and open the project in your desired editor and then compile.
 ## Contact
-Please feel free to send a message to MunfMunf#9104 if you're looking at the code in an attempt to modify it or use bits of it to make your own project. I love learning, and I'm always happy to help people learn.
+Please feel free to send a message to MunfMunf#9104 if you're looking at the code in an attempt to modify it or use bits of it to make your own project. I love learning, and I'm always happy to help people learn. So please send me a message if you'd like to understand this code, or incorporate it into your own projects!
 
 ## Disclaimer
 Ragnarok Battle Offline is owned by フランスパン and thus the art assets are owned by them. If it is necessary then I can take this project down, or replace the existing art assets with my own.
